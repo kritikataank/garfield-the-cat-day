@@ -1,1 +1,1 @@
-# garfield-the-cat-day
+# is-today-garfield-the-cat-day
