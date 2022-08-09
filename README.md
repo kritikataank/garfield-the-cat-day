@@ -15,4 +15,10 @@ This is what the page would look like on 19 June
 <br />
 ![Screenshot (26)](https://user-images.githubusercontent.com/79200249/183664697-db77c39d-4256-411b-b01d-2fbb0f99c3b7.png)
 <br />
-This is a dynamic webpage which tells us is today garfield the cat day or not.
+This is a dynamic webpage which tells us if today is garfield the cat day or not.
+<br />
+Read more about Garfield the cat day: https://www.daysoftheyear.com/days/garfield-the-cat-day/
+<br />
+This project is inspired from webpage: <br />
+https://isitchristmas.today/ <br />
+https://isitchristmas.com/
