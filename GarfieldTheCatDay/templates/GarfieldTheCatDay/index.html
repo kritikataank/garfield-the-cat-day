@@ -1,0 +1,15 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Is Today Garfield The Cat Day?</title>
+        <link href="{% static 'GarfieldTheCatDay/styles.css' %}" rel="stylesheet"
+    </head>
+    <body>
+        {% if GarfieldDay %}
+            <h1>Yes, It is Garfield the cat day!</h1>
+        {% else %}
+            <h1>No, It's not Garfield the cat day.</h1>
+        {% endif %}
+    </body>
+</html>

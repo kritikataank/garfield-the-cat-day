@@ -1,0 +1,10 @@
+h1 {
+    font-family: serif;
+    font-size: 50px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+body {
+    background-image: url('woo.jpg');
+}
